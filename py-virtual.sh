@@ -1,0 +1,1 @@
+bash source .virtual/bin/activate 

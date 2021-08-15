@@ -1,0 +1,6 @@
+.env
+.virtual
+.ipynb_checkpoints
+
+comments.txt
+node_modules/
